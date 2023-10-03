@@ -21,3 +21,6 @@ var myVar = "Hello, World!";
 ```math
 \left (\sum_{k=1}\right)
 ```
+
+# of characters/strings
+Thislist
