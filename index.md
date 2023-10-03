@@ -24,3 +24,10 @@ var myVar = "Hello, World!";
 
 # of characters/strings
 Thislist
+
+## Make a task list
+```How it looks
+- [x] List syntax is required
+- [x] This item is complete
+```
+- [ ] This item is not complete
